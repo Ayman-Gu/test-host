@@ -5,7 +5,7 @@ const userList = document.getElementById('user-list');
 let editingUserId = null;
 
 // Dummy admin credentials
-const admin = { username: 'admin', password: 'admin' };
+const admin = { username: 'zwict', password: 'zwict' };
 
 // Event Listeners
 document.getElementById('login-form').addEventListener('submit', handleLogin);
